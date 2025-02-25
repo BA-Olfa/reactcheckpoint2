@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.btn-add-panier {
+  color: #ffffff !important;
+  background-color: red !important;
+  border-color: red !important;
+}
