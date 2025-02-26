@@ -14,7 +14,7 @@ const devise="TND"
 function App() {
   return (
     <div className="container mt-5">
-      <Card style={{ width: "18rem" }} className="mx-auto text-center">
+      <Card style={{ width: "20rem" }} className="mx-auto text-center">
         <Image src={dataProduit.image} />
         <Card.Body>
           <Card.Title><Name name={dataProduit.Name} /></Card.Title>
